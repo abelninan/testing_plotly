@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 import altair as alt
 import plotly.graph_objects as go
+import nltk
 
 pd.set_option('display.max_columns', None)
 pd.set_option('max_colwidth', None)
